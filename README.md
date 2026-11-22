@@ -1,4 +1,7 @@
 [tkos.zero.txt](https://github.com/user-attachments/files/35233728/tkos.zero.txt)
+
+
+
 import tkinter as tk
 import webbrowser, platform, os
 pencere = tk.Tk()
